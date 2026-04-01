@@ -4,15 +4,7 @@
 
 <div align="center">
 
-```
-<div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cyberpunk header"/>
-</div>
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;5%2B+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
-</div>
-
-```
+[![QA Engineer](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=70&duration=3000&pause=2000&color=00FF9F&center=true&vCenter=true&width=900&height=100&lines=QA+ENGINEER)](https://git.io/typing-svg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;5%2B+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
 
@@ -29,7 +21,7 @@ Name      : Aleksei Sturostov
 Role      : Fullstack QA Engineer 🔬
 Company   : ETNA Software
 Location  : Argentina 🇦🇷 | Buenos Aires
-Language  : English: B2 | Spanish: B1 | Russian C2
+Language  : English: B2 | Spanish: B1 | Russian: C2
 Status    : [■■■■■■■■■░] HUNTING BUGS...
 ```
 
@@ -54,6 +46,8 @@ Fullstack QA Engineer с 5+ годами опыта.
 
 <br clear="both"/>
 
+---
+
 ## `// EXPERIENCE`
 
 <div align="center">
@@ -77,6 +71,8 @@ Fullstack QA Engineer с 5+ годами опыта.
 + Снизил возвраты багов на 70% (стандарты Confluence + JIRA шаблоны)
 + E2E тестирование FedEx-портала: 0% критов, -40% времени на багфиксы
 ```
+
+---
 
 ## `// TECH STACK`
 
@@ -124,24 +120,32 @@ Fullstack QA Engineer с 5+ годами опыта.
 
 </div>
 
+---
+
 ## `// GITHUB STATS`
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Claberlenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Claberlenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Claberlenk&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&fire=00FF9F&ring=00FF9F&currStreakLabel=00FF9F" height="200" alt="GitHub Streak"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Claberlenk&bg_color=0d1117&color=00FF9F&line=00FF9F&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
+
+---
 
 ## `// SNAKE`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
+
+---
 
 ## `// CONNECT`
 
