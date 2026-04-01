@@ -150,7 +150,6 @@ Fullstack QA Engineer с 5+ годами опыта.
   <img src="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
----
 
 ## `// CONNECT`
 
