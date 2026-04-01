@@ -25,11 +25,10 @@
 
 ```yaml
 Name      : Aleksei Sturostov
-Handle    : Claberlenk
 Role      : Fullstack QA Engineer 🔬
 Company   : ETNA Software
-Location  : Argentina 🌎  |  Russia 🇷🇺
-English   : B2  |  Spanish: B1
+Location  : Argentina 🇦🇷 | Buenos Aires
+Language  : English: B2 | Spanish: B1 | Russian C2
 Status    : [■■■■■■■■■░] HUNTING BUGS...
 ```
 
@@ -40,7 +39,6 @@ Fullstack QA Engineer с 5+ годами опыта.
 Тестирую web и mobile продукты: функционал, API,
 бизнес-логику, интеграции в микросервисной архитектуре.
 
-Сократил регрессию на 40%. Предотвратил потери $100k+.
 Люблю сложные системы, скрытые баги и автоматизацию.
 Мой код находит баги раньше, чем их заметят юзеры 🐛⚡
 ```
@@ -48,9 +46,9 @@ Fullstack QA Engineer с 5+ годами опыта.
 ### `> ls /hobbies`
 
 ```
-🎌 Аниме               🎮 Steam Gaming
+🎌 Anime               🎮 Steam Gaming
 🤖 AI & Automation     📝 Tech Articles  
-🎧 Lofi while testing  🌎 Живу в Аргентине
+🎧 Lofi while testing  🌎 Жизнь — это не баг. Это фича
 ```
 
 <br clear="both"/>
@@ -126,21 +124,6 @@ Fullstack QA Engineer с 5+ годами опыта.
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
-</div>
-
----
-
-## `// ARTICLES`
-
-<div align="center">
-
-> 📝 Публикую статьи на **proglib.io**
-
-| 📖 Статья | 🔗 |
-|---|---|
-| Telegram-бот для подготовки к собеседованию на Frontend | [читать →](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29) |
-| Telegram-бот для фильтрации нецензурной лексики в чате | [читать →](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15) |
 
 </div>
 
