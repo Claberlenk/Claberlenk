@@ -132,14 +132,12 @@ Fullstack QA Engineer с 5+ годами опыта.
 ## `// GITHUB STATS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Claberlenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Claberlenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Claberlenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Claberlenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Claberlenk&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&fire=00FF9F&ring=00FF9F&currStreakLabel=00FF9F" height="200" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Claberlenk&bg_color=0d1117&color=00FF9F&line=00FF9F&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
