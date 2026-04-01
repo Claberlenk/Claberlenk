@@ -7,8 +7,6 @@
 [![QA Engineer](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=70&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&height=120&lines=QA+ENGINEER;%E5%93%81%E8%B3%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;BUG+HUNTER+%F0%9F%90%9B;%E3%83%90%E3%82%B0%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC)](https://git.io/typing-svg)
 </div>
 
----
-
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="coding gif"/>
 
 ### `> whoami`
