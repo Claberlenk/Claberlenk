@@ -3,8 +3,11 @@
   <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlycTkwNzljc2F5N3h1cHkxMWZmdHVycXJkM3Y3ZTduOHJpdDV0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" alt="cyberpunk header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;5%2B+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
+
 [![QA Engineer](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=70&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&height=120&lines=QA+ENGINEER;%E5%93%81%E8%B3%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;BUG+HUNTER+%F0%9F%90%9B;%E3%83%90%E3%82%B0%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC)](https://git.io/typing-svg)
 </div>
+
+---
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
