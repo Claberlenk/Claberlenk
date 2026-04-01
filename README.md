@@ -53,8 +53,6 @@ Fullstack QA Engineer с 5+ годами опыта.
 
 <br clear="both"/>
 
----
-
 ## `// EXPERIENCE`
 
 <div align="center">
@@ -78,8 +76,6 @@ Fullstack QA Engineer с 5+ годами опыта.
 + Снизил возвраты багов на 70% (стандарты Confluence + JIRA шаблоны)
 + E2E тестирование FedEx-портала: 0% критов, -40% времени на багфиксы
 ```
-
----
 
 ## `// TECH STACK`
 
@@ -127,8 +123,6 @@ Fullstack QA Engineer с 5+ годами опыта.
 
 </div>
 
----
-
 ## `// GITHUB STATS`
 
 <div align="center">
@@ -142,14 +136,11 @@ Fullstack QA Engineer с 5+ годами опыта.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Claberlenk&bg_color=0d1117&color=00FF9F&line=00FF9F&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
-
 ## `// SNAKE`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-
 
 ## `// CONNECT`
 
