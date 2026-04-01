@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpvb29kdDU2OHMwcjlwZnhrM2RreXNkYnFuOXltc3N3dzQwcTFvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" alt="cyberpunk header"/>
+<img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlycTkwNzljc2F5N3h1cHkxMWZmdHVycXJkM3Y3ZTduOHJpdDV0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" alt="cyberpunk header"/>
 </div>
 
 <div align="center">
