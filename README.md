@@ -5,12 +5,8 @@
 <div align="center">
 
 ```
- ██████╗██╗      █████╗ ██████╗ ███████╗██████╗ ██╗     ███████╗███╗   ██╗██╗  ██╗
-██╔════╝██║     ██╔══██╗██╔══██╗██╔════╝██╔══██╗██║     ██╔════╝████╗  ██║██║ ██╔╝
-██║     ██║     ███████║██████╔╝█████╗  ██████╔╝██║     █████╗  ██╔██╗ ██║█████╔╝ 
-██║     ██║     ██╔══██║██╔══██╗██╔══╝  ██╔══██╗██║     ██╔══╝  ██║╚██╗██║██╔═██╗ 
-╚██████╗███████╗██║  ██║██████╔╝███████╗██║  ██║███████╗███████╗██║ ╚████║██║  ██╗
- ╚═════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;5%2B+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
+</div>
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;5%2B+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
