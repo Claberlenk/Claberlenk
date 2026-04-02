@@ -23,12 +23,11 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ### `> cat about.txt`
 
 ```
-Fullstack QA Engineer с 5+ годами опыта.
-Тестирую web и mobile продукты: функционал, API,
-бизнес-логику, интеграции в микросервисной архитектуре.
-
-Люблю сложные системы, скрытые баги и автоматизацию.
-Мой код находит баги раньше, чем их заметят юзеры 🐛⚡
+> Deployed in production since 2020.
+> Specializing in web & mobile: API, UI, business logic,
+  microservice integrations — full coverage, zero mercy.
+> Passionate about complex systems, edge cases & automation.
+> My scripts find bugs faster than devs can write them 🐛⚡
 ```
 
 ### `> ls /hobbies`
