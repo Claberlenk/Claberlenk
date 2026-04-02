@@ -72,13 +72,13 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ### `> cat achievements.log`
 
 ```diff
-+ Сократил регрессию на 40% — с 5 до 3 дней (120+ тест-кейсов)
-+ Ускорил реакцию QA+DevOps на сбои на 100% (Slack/Email авто-уведомления)
-+ Уменьшил задержки Frontend↔Backend↔DevOps на ~60% через CI/CD pipeline
-+ Онбординг Junior/Middle QA — 100% прошли испытательный срок
-+ Обнаружил 3+ критических бага на проде → предотвратил потери $100,000+
-+ Снизил возвраты багов на 70% (стандарты Confluence + JIRA шаблоны)
-+ E2E тестирование FedEx-портала: 0% критов, -40% времени на багфиксы
++ Reduced regression duration by 40% — from 5 to 3 days (optimized 120+ test cases)
++ Sped up QA+DevOps incident response by 100% via Slack/Email auto-notifications
++ Cut Frontend↔Backend↔DevOps delays by ~60% through CI/CD pipeline integration
++ Onboarded Junior/Middle QA engineers — 100% passed probation successfully
++ Discovered 3+ critical production bugs → prevented $100,000+ in losses
++ Reduced bug return rate by 70% via Confluence standards + JIRA templates
++ E2E tested FedEx portal: 0% critical bugs, -40% time spent on bug fixes
 ```
 
 ## `// TECH STACK`
