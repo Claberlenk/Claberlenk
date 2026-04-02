@@ -35,7 +35,7 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ```
 🎌 Anime               🎮 Steam Gaming
 🤖 AI & Automation     📝 Tech Articles  
-🎧 Lofi while testing  🌎 Жизнь — это не баг. Это фича
+🎧 Lofi while testing  🌎 Trips
 ```
 <br clear="both"/>
 
