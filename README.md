@@ -40,6 +40,7 @@ Fullstack QA Engineer с 5+ годами опыта.
 ```
 
 <br clear="both"/>
+
 ## `// EXPERIENCE`
 
 ```yaml
