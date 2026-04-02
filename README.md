@@ -52,24 +52,24 @@ Fullstack QA Engineer с 5+ годами опыта.
 # 経験 | Work Experience  ──────────────────────────────────
 
   ┌─────────────────────────────────────────────────────┐
-  │  company  : ETNA Software [ etnasoft.com ]          │
-  │  role     : Fullstack QA Engineer                   │
-  │  period   : Oct 2023 -> present  |  2y 7m           │
-  │  status   : >> ACTIVE <<                            │
+  │  Company  : ETNA Software [ etnasoft.com ]          │
+  │  Role     : Fullstack QA Engineer                   │
+  │  Period   : Oct 2023 -> present  |  2y 7m           │
+  │  Status   : >> ACTIVE <<                            │
   └─────────────────────────────────────────────────────┘
 
   ┌─────────────────────────────────────────────────────┐
-  │  company  : Floship Ltd [ floship.com ]             │
-  │  role     : QA Engineer                             │
-  │  period   : Dec 2021 -> May 2023  |  1y 6m          │
-  │  status   : COMPLETED                               │
+  │  Company  : Floship Ltd [ floship.com ]             │
+  │  Role     : QA Engineer                             │
+  │  Period   : Dec 2021 -> May 2023  |  1y 6m          │
+  │  Status   : COMPLETED                               │
   └─────────────────────────────────────────────────────┘
 
   ┌─────────────────────────────────────────────────────┐
-  │  company  : Etalon Global [ etalonglobal.com ]      │
-  │  role     : Mobile QA Engineer                      │
-  │  period   : Aug 2020 -> Nov 2021  |  1y 4m          │
-  │  status   : COMPLETED                               │
+  │  Company  : Etalon Global [ etalonglobal.com ]      │
+  │  Role     : Mobile QA Engineer                      │
+  │  Period   : Aug 2020 -> Nov 2021  |  1y 4m          │
+  │  Status   : COMPLETED                               │
   └─────────────────────────────────────────────────────┘
 
   total_experience : 5y 5m
