@@ -37,7 +37,6 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 🤖 AI & Automation     📝 Tech Articles  
 🎧 Lofi while testing  🌎 Жизнь — это не баг. Это фича
 ```
-
 <br clear="both"/>
 
 ## `// EXPERIENCE`
