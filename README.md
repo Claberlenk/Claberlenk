@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlycTkwNzljc2F5N3h1cHkxMWZmdHVycXJkM3Y3ZTduOHJpdDV0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" alt="cyberpunk header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;5%2B+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;6+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
 
 [![QA Engineer](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=70&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&height=120&lines=QA+ENGINEER;%E5%93%81%E8%B3%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;BUG+HUNTER+%F0%9F%90%9B;%E3%83%90%E3%82%B0%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC)](https://git.io/typing-svg)
 </div>
@@ -16,18 +16,16 @@ Name      : Aleksei Sturostov
 Role      : Fullstack QA Engineer 🔬
 Company   : ETNA Software
 Location  : Argentina 🇦🇷 | Buenos Aires
-Language  : English: B2 | Spanish: B1 | Russian: C2
+Language  : Russian: Native | English: B1 | Spanish: A2
 Status    : [■■■■■■■■■░] HUNTING BUGS...
 ```
 
 ### `> cat about.txt`
 
 ```
-> Deployed in production since 2020.
-> Specializing in web & mobile: API, UI, business logic,
-  microservice integrations — full coverage, zero mercy.
-> Passionate about complex systems, edge cases & automation.
-> My scripts find bugs faster than devs can write them 🐛⚡
+> 6 years in fintech & e-commerce: web, iOS, Android, backend.
+> I trace bugs past the UI: API → logs → DB → Kafka/RabbitMQ.
+> Python autotests in CI. Open to new stacks, Java included.
 ```
 
 ### `> ls /hobbies`
@@ -47,13 +45,13 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
   ┌─────────────────────────────────────────────────────┐
   │  Company  : ETNA Software [ etnasoft.com ]          │
   │  Role     : Fullstack QA Engineer                   │
-  │  Period   : Oct 2023 -> present  |  2y 7m           │
+  │  Period   : Oct 2023 -> present  |  3y              │
   │  Status   : >> ACTIVE <<                            │
   └─────────────────────────────────────────────────────┘
 
   ┌─────────────────────────────────────────────────────┐
   │  Company  : Floship Ltd [ floship.com ]             │
-  │  Role     : QA Engineer                             │
+  │  Role     : Middle QA Engineer                      │
   │  Period   : Dec 2021 -> May 2023  |  1y 6m          │
   │  Status   : COMPLETED                               │
   └─────────────────────────────────────────────────────┘
@@ -65,19 +63,19 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
   │  Status   : COMPLETED                               │
   └─────────────────────────────────────────────────────┘
 
-  total_experience : 5y 5m
+  total_experience : 6y
 ```
 
 ### `> cat achievements.log`
 
 ```diff
-+ Reduced regression duration by 40% — from 5 to 3 days (optimized 120+ test cases)
-+ Sped up QA+DevOps incident response by 100% via Slack/Email auto-notifications
-+ Cut Frontend↔Backend↔DevOps delays by ~60% through CI/CD pipeline integration
-+ Onboarded Junior/Middle QA engineers — 100% passed probation successfully
-+ Discovered 3+ critical production bugs → prevented $100,000+ in losses
-+ Reduced bug return rate by 70% via Confluence standards + JIRA templates
-+ E2E tested FedEx portal: 0% critical bugs, -40% time spent on bug fixes
++ Regression 5 → 3 days (−40%): audited 120+ cases, automated ~35
++ QA ↔ Dev ↔ DevOps feedback: 2 days → 6 hours via CI/CD
++ Bug rejections −70% (~25% → ~8%) with Jira/Confluence standards
++ 3 critical prod incidents localized via logs, Kafka & DB → ~$100K saved
++ ~150 API/UI autotests, flakiness ~12% → ~4%, run 60 → 25 min
++ 10+ QA interviews, 4 new hires onboarded — all passed probation
++ FedEx integration E2E: 50+ edge cases, 0 critical bugs after release
 ```
 
 ## `// TECH STACK`
@@ -88,7 +86,6 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 <p>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00FF9F"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -108,7 +105,6 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ### 🛠 Languages & Data
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -121,6 +117,9 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -151,7 +150,7 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 
 <div align="center">
 
-<a href="https://t.me/sturostov" target="_blank">
+<a href="https://t.me/qaworkengineer" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
 </a>
 &nbsp;
@@ -176,7 +175,7 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Claberlenk.Claberlenk&left_color=0d1117&right_color=00FF9F&left_text=VISITORS" alt="visitors"/>
 
 ```
-[ QA MODE: ACTIVE ] ░░░ TESTS PASSED: ✅ ░░░ BUGS ON PROD: 0 ░░░ COVERAGE: 100% 🔬
+[ QA MODE: ACTIVE ] ░░░ TESTS PASSED: ✅ ░░░ BUGS HUNTED: ∞ 🔬
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=80&section=footer"/>
