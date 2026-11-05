@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlycTkwNzljc2F5N3h1cHkxMWZmdHVycXJkM3Y3ZTduOHJpdDV0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" alt="cyberpunk header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;6+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;Claude+Code+%E2%80%A2+Cursor+%E2%80%A2+AI+Agents+in+QA+%F0%9F%A4%96;6+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
 
 [![QA Engineer](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=70&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&height=120&lines=QA+ENGINEER;%E5%93%81%E8%B3%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;BUG+HUNTER+%F0%9F%90%9B;%E3%83%90%E3%82%B0%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC)](https://git.io/typing-svg)
 </div>
@@ -16,7 +16,8 @@ Name      : Aleksei Sturostov
 Role      : Fullstack QA Engineer 🔬
 Company   : ETNA Software
 Location  : Argentina 🇦🇷 | Buenos Aires
-Language  : Russian: Native | English: B1 | Spanish: A2
+Focus     : Test automation + AI in QA 🤖
+Language  : Russian: Native | English: B2 | Spanish: A2
 Status    : [■■■■■■■■■░] HUNTING BUGS...
 ```
 
@@ -25,7 +26,9 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ```
 > 6 years in fintech & e-commerce: web, iOS, Android, backend.
 > I trace bugs past the UI: API → logs → DB → Kafka/RabbitMQ.
-> Python autotests in CI. Open to new stacks, Java included.
+> Python test frameworks in Jenkins CI: 2,200+ API & E2E tests.
+> AI agents in QA: Claude Code, Cursor, MCP.
+> Open to new stacks, Java included.
 ```
 
 ### `> ls /hobbies`
@@ -45,13 +48,15 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
   ┌─────────────────────────────────────────────────────┐
   │  Company  : ETNA Software [ etnasoft.com ]          │
   │  Role     : Fullstack QA Engineer                   │
-  │  Period   : Oct 2023 -> present  |  3y              │
+  │  Project  : ETNA Trader (white-label brokerage)     │
+  │  Period   : Oct 2023 -> present  |  3y+             │
   │  Status   : >> ACTIVE <<                            │
   └─────────────────────────────────────────────────────┘
 
   ┌─────────────────────────────────────────────────────┐
   │  Company  : Floship Ltd [ floship.com ]             │
   │  Role     : Middle QA Engineer                      │
+  │  Project  : E-commerce fulfillment (web, Android)   │
   │  Period   : Dec 2021 -> May 2023  |  1y 6m          │
   │  Status   : COMPLETED                               │
   └─────────────────────────────────────────────────────┘
@@ -59,24 +64,51 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
   ┌─────────────────────────────────────────────────────┐
   │  Company  : Etalon Global [ etalonglobal.com ]      │
   │  Role     : Mobile QA Engineer                      │
+  │  Project  : Client iOS/Android apps + CRM           │
   │  Period   : Aug 2020 -> Nov 2021  |  1y 4m          │
   │  Status   : COMPLETED                               │
   └─────────────────────────────────────────────────────┘
 
   total_experience : 6y
+  education        : North-Eastern Federal University
+                     Information Systems & Technologies, 2016-2021
 ```
 
 ### `> cat achievements.log`
 
 ```diff
-+ Regression 5 → 3 days (−40%): audited 120+ cases, automated ~35
-+ QA ↔ Dev ↔ DevOps feedback: 2 days → 6 hours via CI/CD
-+ Bug rejections −70% (~25% → ~8%) with Jira/Confluence standards
-+ 3 critical prod incidents localized via logs, Kafka & DB → ~$100K saved
-+ ~150 API/UI autotests, flakiness ~12% → ~4%, run 60 → 25 min
-+ 10+ QA interviews, 4 new hires onboarded — all passed probation
-+ FedEx integration E2E: 50+ edge cases, 0 critical bugs after release
+@@ ETNA Software @@
++ 2,200+ API & E2E autotests on critical trading flows
++ API endpoint coverage 82% → 95%, checked on every Jenkins build
++ Test run 60 → 25 min, flaky tests ~12% → ~4%
++ Feedback on major changes: 2 days → 6 hours via CI/CD
++ Reaction to failed runs: ~8 → ~2 hours with Slack/Email alerts
++ Claude Code & Cursor in team QA: agent skills for test plans, cases, autotests
++ Agents connected to Jenkins, Azure DevOps, Wiki and Postman via MCP
++ QA Metrics Board (React + Python): 7 release metrics, refreshed every 30 min
+
+@@ CRM for agencies: QA with AI agents @@
++ 7 Claude Code agents + 207 Playwright autotests found a release blocker before it shipped
++ UI actions covered by autotests: 31 → 67 of 201 in one regression
++ 16 read-only MySQL checks found 4 data mismatches the UI hides
+
+@@ Floship @@
++ FedEx integration: 50+ E2E scenarios across 3 teams, 0 critical bugs after release
++ Critical regression coverage ~60% → ~85%, run time −30%
++ QA onboarding 4 → 2 weeks, requirement clarifications −30%
+
+@@ Etalon Global @@
++ 150+ screens checked against Apple HIG & Material Design: 60+ UX defects before release
++ Bug report standard: average fix time −40%
 ```
+
+## `// PROJECTS`
+
+<div align="center">
+<a href="https://github.com/Claberlenk/qa-portfolio-playwright">
+  <img src="https://img.shields.io/badge/qa--portfolio--playwright-UI_+_API_tests_|_Python_•_Pytest_•_Docker_•_Jenkins-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+</div>
 
 ## `// TECH STACK`
 
@@ -87,39 +119,66 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Allure-00BCD4?style=for-the-badge"/>
 </p>
 
-### 🗂 Management & CI/CD
+### 🤖 AI in QA
 <p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Allure-00BCD4?style=for-the-badge&logo=testcafe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-1A1A2E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+</p>
+
+### 🔌 API & Messaging
+<p>
+<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
 ### 🛠 Languages & Data
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### 📊 Monitoring & Infra
+### ⚙️ CI/CD & Infra
+<p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 📊 Monitoring
 <p>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+</p>
+
+### 🗂 Management
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zephyr-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -128,16 +187,12 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ## `// GITHUB STATS`
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Claberlenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Claberlenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Claberlenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Claberlenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Claberlenk&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&fire=00FF9F&ring=00FF9F&currStreakLabel=00FF9F" height="200" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Claberlenk&bg_color=0d1117&color=00FF9F&line=00FF9F&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## `// SNAKE`
@@ -150,7 +205,7 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 
 <div align="center">
 
-<a href="https://t.me/qaworkengineer" target="_blank">
+<a href="https://t.me/sturostov" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
 </a>
 &nbsp;
