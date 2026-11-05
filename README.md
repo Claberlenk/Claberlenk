@@ -114,7 +114,7 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ## `// PROJECTS`
 
 <div align="center">
-<a href="https://github.com/Claberlenk/qa-portfolio-playwright">
+<a href="https://github.com/sturostov/qa-portfolio-playwright">
   <img alt="qa-portfolio-playwright: UI and API tests in Python, Pytest, Docker, Jenkins" src="https://img.shields.io/badge/qa--portfolio--playwright-UI_+_API_tests_|_Python_•_Pytest_•_Docker_•_Jenkins-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 </div>
@@ -196,21 +196,21 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ## `// GITHUB STATS`
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Claberlenk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Claberlenk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sturostov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sturostov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Claberlenk&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&fire=00FF9F&ring=00FF9F&currStreakLabel=00FF9F" height="200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sturostov&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&fire=00FF9F&ring=00FF9F&currStreakLabel=00FF9F" height="200" alt="GitHub Streak"/>
 </div>
 
 ## `// SNAKE`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the GitHub contribution graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sturostov/sturostov/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sturostov/sturostov/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/sturostov/sturostov/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the GitHub contribution graph"/>
   </picture>
 </div>
 
