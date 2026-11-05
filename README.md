@@ -5,9 +5,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81+%F0%9F%96%A4+System+Initializing...;Fullstack+QA+Engineer+%7C+Bug+Hunter+%F0%9F%90%9B;Pytest+%E2%80%A2+Playwright+%E2%80%A2+Selenium+%E2%80%A2+Python;Claude+Code+%E2%80%A2+Cursor+%E2%80%A2+AI+Agents+in+QA+%F0%9F%A4%96;6+years+of+breaking+things+professionally+%E2%9A%94%EF%B8%8F;%E5%93%81%E8%B3%AA%E3%82%92%E4%BF%9D%E8%A8%BC%E3%81%99%E3%82%8B+%E2%80%94+Guarantee+Quality+%E2%9C%85" alt="Typing SVG"/>
 
 [![QA Engineer](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=70&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&height=120&lines=QA+ENGINEER;%E5%93%81%E8%B3%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;BUG+HUNTER+%F0%9F%90%9B;%E3%83%90%E3%82%B0%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC)](https://git.io/typing-svg)
+
+<p>
+<img src="https://img.shields.io/badge/API_%26_E2E_tests-2,200%2B-00FF9F?style=for-the-badge&labelColor=0d1117" alt="API & E2E tests: 2,200+"/>
+<img src="https://img.shields.io/badge/API_coverage-82%25_%E2%86%92_95%25-00FF9F?style=for-the-badge&labelColor=0d1117" alt="API coverage: 82% → 95%"/>
+<img src="https://img.shields.io/badge/test_run-60_%E2%86%92_25_min-00FF9F?style=for-the-badge&labelColor=0d1117" alt="test run: 60 → 25 min"/>
+<img src="https://img.shields.io/badge/flaky_tests-~12%25_%E2%86%92_~4%25-00FF9F?style=for-the-badge&labelColor=0d1117" alt="flaky tests: ~12% → ~4%"/>
+<img src="https://img.shields.io/badge/CI_feedback-2_d_%E2%86%92_6_h-00FF9F?style=for-the-badge&labelColor=0d1117" alt="CI feedback: 2 d → 6 h"/>
+</p>
+
 </div>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="coding gif"/>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="coding gif"/>
 
 ### `> whoami`
 
@@ -106,7 +115,7 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 
 <div align="center">
 <a href="https://github.com/Claberlenk/qa-portfolio-playwright">
-  <img src="https://img.shields.io/badge/qa--portfolio--playwright-UI_+_API_tests_|_Python_•_Pytest_•_Docker_•_Jenkins-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img alt="qa-portfolio-playwright: UI and API tests in Python, Pytest, Docker, Jenkins" src="https://img.shields.io/badge/qa--portfolio--playwright-UI_+_API_tests_|_Python_•_Pytest_•_Docker_•_Jenkins-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 </div>
 
@@ -116,70 +125,70 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 
 ### 🔬 QA Automation & Testing
 <p>
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Allure-00BCD4?style=for-the-badge"/>
+<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img alt="Allure" src="https://img.shields.io/badge/Allure-00BCD4?style=for-the-badge"/>
 </p>
 
 ### 🤖 AI in QA
 <p>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-1A1A2E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img alt="MCP" src="https://img.shields.io/badge/MCP-1A1A2E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
 </p>
 
 ### 🔌 API & Messaging
 <p>
-<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
 ### 🛠 Languages & Data
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ### ⚙️ CI/CD & Infra
 <p>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 📊 Monitoring
 <p>
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+<img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
+<img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
 
 ### 🗂 Management
 <p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zephyr-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img alt="TestRail" src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/>
+<img alt="Zephyr" src="https://img.shields.io/badge/Zephyr-1F6FEB?style=for-the-badge"/>
+<img alt="Qase" src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 </div>
@@ -198,7 +207,11 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 ## `// SNAKE`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Claberlenk/Claberlenk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the GitHub contribution graph"/>
+  </picture>
 </div>
 
 ## `// CONNECT`
@@ -206,19 +219,19 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 <div align="center">
 
 <a href="https://t.me/sturostov" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
 </a>
 &nbsp;
 <a href="https://steamcommunity.com/profiles/76561199474617759/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=00FF9F" height="32"/>
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=00FF9F" height="32"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sturostov" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
 </a>
 &nbsp;
 <a href="mailto:qaworkengineer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
 </a>
 
 </div>
@@ -233,6 +246,6 @@ Status    : [■■■■■■■■■░] HUNTING BUGS...
 [ QA MODE: ACTIVE ] ░░░ TESTS PASSED: ✅ ░░░ BUGS HUNTED: ∞ 🔬
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=80&section=footer"/>
+<img alt="footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=80&section=footer"/>
 
 </div>
